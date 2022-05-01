@@ -564,6 +564,19 @@ a, a:active, a:hover {
     transition: all .2s linear;
     border: .1em solid transparent;
 }
+.project-card-btn-left {
+    position: absolute;
+    display: inline-block;
+    bottom: .5rem;
+    left: .5rem;
+    padding: .75rem 1.5rem;
+    font-size: 1.2rem;
+    color: white;
+    background: #20a0ff;
+    border-radius: 2rem;
+    transition: all .2s linear;
+    border: .1em solid transparent;
+}
 
 .project-card-btn:hover {
     -webkit-transform: scale(1.05);
