@@ -525,6 +525,9 @@ a, a:active, a:hover {
 .project-card-bot {
     background-image: url(assets/projects/bot.png);
 }
+.project-card-particles {
+    background-image: url(assets/projects/1024.png);
+}
 
 .project-card-corsarineri {
     background-image: url(assets/projects/corsarineri.png);
