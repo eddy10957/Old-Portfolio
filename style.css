@@ -553,6 +553,10 @@ a, a:active, a:hover {
     font-size: 2rem;
     color: white;
 }
+.project-card-title-particles {
+    font-size: 1rem;
+    color: white;
+}
 
 .project-card-btn {
     position: absolute;
